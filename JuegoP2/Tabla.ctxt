@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tabla
+comment1.params=plano
+comment1.target=Tabla(char[][])
+comment2.params=
+comment2.target=java.lang.String\ contarTablar()
+comment3.params=
+comment3.target=void\ contarHorizontales()
+comment4.params=
+comment4.target=void\ contarVerticales()
+numComments=5

@@ -35,7 +35,7 @@ public class Juego
             }
             numeroIntentosPermitidos--; 
         }else{
-            respuesta = "Perdiste"; 
+            respuesta = "Perdiste el juego"; 
         }
         return respuesta; 
     }
